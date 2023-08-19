@@ -1,0 +1,22 @@
+.user-item img {
+    width: 100%;
+  }
+  
+  #home .user-item h2 {
+    margin-bottom: 0.2em;
+  }
+  
+  .user-author {
+    text-align: left;
+  }
+  
+  .user-author a {
+    font-weight: bold;
+  }
+  
+  .user-content {
+    text-align: left;
+  }
+
+  
+  
